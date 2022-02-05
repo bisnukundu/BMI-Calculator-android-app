@@ -4,5 +4,6 @@
     <string name="et_weight">Enter your Weight (kg)</string>
     <string name="et_inc">Enter Your Height (inc)</string>
     <string name="calculator">BMI Calculator</string>
+    <string name="dont_">Don\'t focus on design</string>
 
 </resources>
